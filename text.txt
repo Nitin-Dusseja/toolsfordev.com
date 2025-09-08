@@ -20,8 +20,8 @@
 20 -> https://getavataaars.com/ ✅
 21 -> https://www.vantajs.com/?effect=birds ✅
 22- > https://www.sitelike.org/
-23 -> https://www.tldraw.com/
-24 -> https://ray.so/
+23 -> https://www.tldraw.com/ ✅
+24 -> https://ray.so/ ✅
 25 -> https://www.vertex42.com/ (Templates of Invoices)
 26 -> https://iconictoolshub.com/ (pdf tool)
 27 -> https://www.cymath.com/
@@ -42,6 +42,35 @@
 42 -> https://animata.design/ (Animations in React)
 43 -> https://rapidtags.io/ (Meta Tags)
 44 -> https://fileszero.com/ (terabox videoplayer)
+45 -> https://beanheads.robertbroersma.com/
+46 -> https://freeillustrations.xyz/
+47 -> https://svgwave.in/?ref=uigoodies.com (Svg Shapes and tools)
+48 -> https://spectrums.framer.website/?ref=uigoodies.com (Svg Shapes)
+49 -> https://handyarrows.com/?ref=uigoodies.com
+50 -> https://heropatterns.com/?ref=uigoodies.com (Svg background)
+51 -> https://higgsfield.ai/ (AI for video and Image Prompts)
+52 -> https://www.thiings.co/things (3D Icons)
+53 -> https://bestofai.com/ (All AI Tools)
+54 -> https://stirlingpdf.io/?lang=en_US (PDF Tools)
+55 -> https://www.cult-ui.com/ (UI Library)
+56 -> https://omatsuri.app/ (webDev Tools)
+57 -> https://echarts.apache.org/en/index.html (charts)
+58 -> https://simpleparallax.com/
+59 -> https://pressurejs.com/
+60 -> https://www.fancycomponents.dev/
+61 -> https://react-leaflet.js.org/ (Map like google)
+62 -> https://ikonate.com/ (Icons)
+63 -> https://icons.pqoqubbw.dev/ (icons)
+64 -> https://www.buttons.cool/
+65 -> https://easingwizard.com/ (CSS Animations)
+66 -> https://www.deadlinkchecker.com/ (checking for broken links in website)
+67 -> https://fontesk.com/ (fonts)
+
+
+learning
+1 -> https://tryhackme.com/ (hacking)
+2 -> https://www.freepublicapis.com/ (free apis)
+3 -> https://www.jsv9000.app/
 
 vs code extension 
 1 -> Debug Visualizer
@@ -50,3 +79,6 @@ vs code extension
 
 Github Repos
 1-> https://forgoodfirstissue.github.com/ (Repo)
+
+Code editor
+1-> dyad.sh (AI Code Editor)
