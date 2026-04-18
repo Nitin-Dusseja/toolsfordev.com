@@ -65,7 +65,7 @@
 65 -> https://easingwizard.com/ (CSS Animations)
 66 -> https://www.deadlinkchecker.com/ (checking for broken links in website)
 67 -> https://fontesk.com/ (fonts)
-
+68-> https://themify.me/themify-icons
 
 learning
 1 -> https://tryhackme.com/ (hacking)
